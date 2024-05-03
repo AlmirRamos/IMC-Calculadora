@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="notificacao_email">Enviaremos um link de recuperação para seu email, certifique-se que o email informado é válido</string>
+    <string name="email">Digite seu Email</string>
+</resources>
